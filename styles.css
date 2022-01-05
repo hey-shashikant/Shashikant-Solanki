@@ -1,0 +1,172 @@
+body{
+    margin:0;
+    text-align: center;
+    color: rgb(22, 22, 22);;
+  background-color: rgb(130, 219, 190);
+  }
+  h1{
+    font-size: 3.0rem;
+    color: rgb(68, 65, 250);
+    font-family: "harrington",fantasy;
+  }
+  h2{
+    color:rgb(45, 79, 192) ;
+
+
+  }
+  h3{color:rgb(8, 34, 121) ;
+  }
+  hr{
+    border  :rgb(27, 8, 202) dotted 6px ;
+    width: 5%;
+    border-top: none;
+    margin:100px auto ;
+
+  }
+  p{
+    font-size: 1.5rem;
+    margin-block-end: 0px;
+  }
+  .shashikant{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  padding-top: 20px;
+  }
+  .btn {
+
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #228ed1;
+    background-image: -webkit-linear-gradient(top, #228ed1, #02141f);
+    background-image: -moz-linear-gradient(top, #228ed1, #02141f);
+    background-image: -ms-linear-gradient(top, #228ed1, #02141f);
+    background-image: -o-linear-gradient(top, #228ed1, #02141f);
+    background-image: linear-gradient(to bottom, #228ed1, #02141f);
+    text-decoration: none;
+  }
+  .bottom{
+    background-color: rgb(70, 204, 162);
+    padding: 50px 0px 20px;
+    color: #ffffff;
+    }
+    .bottom:hover{
+        background: #08b7d6;
+        background-image: -webkit-linear-gradient(top, #3cfc43, #128023);
+        background-image: -moz-linear-gradient(top, #3cfc43, #128023);
+        background-image: -ms-linear-gradient(top, #3cfc43, #128023);
+        background-image: -o-linear-gradient(top, #3cfc43, #128023);
+        background-image: linear-gradient(to bottom, #3cfc43, #128023);
+        text-decoration: none;
+      }
+
+  .cloud1{
+    position: absolute;
+    left: 600px; top: 30px;
+  }
+  .cloud2{
+    position: absolute;
+    left: 100px;top: 100px;
+  }
+  .cloud3{
+    position: absolute;
+    right: 10px;bottom: 100px;
+  }
+  .cloud4{
+    position: absolute;
+    right: 300px;top: 100px;
+  }
+  .contact-me{
+    padding: 50px ;
+   background-color: rgb(85, 226, 179);
+  }
+  .designs{
+    position: relative;
+    bottom: 20px;
+  }
+  .footer-link{
+    font-size: 1.5rem;
+    margin-left: 30px;
+    margin-top: 100px;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 7%;
+  }
+
+  .footer-link:hover{
+    background: #08b7d6;
+      background-image: -webkit-linear-gradient(top, #3cfcec, #128023);
+      background-image: -moz-linear-gradient(top, #3cfcec, #128023);
+      background-image: -ms-linear-gradient(top, #3cfcec, #12807b);
+      background-image: -o-linear-gradient(top, #3cfcec, #128023);
+      background-image: linear-gradient(to bottom, #3cfcec, #128023);
+      text-decoration: none;
+  }
+  .frontend{
+    height: 100px;
+    width: 200px; float: left;
+    padding-right: 10px;
+    border-radius: 50%;
+  }
+  .profile{
+    background-color: rgb(163, 228, 206);
+  }
+  .skills{
+    background-color: rgb(130, 219, 190);
+  }
+  .skill-row{
+    width: 85%;
+    margin:auto;
+    text-align: left;
+  }
+  .tailor {
+    width: 20%; height: 20%;
+    float: right;
+    border-radius: 50%;
+  }
+
+  /* .skill-row-first{
+    width: 85%;
+    margin:auto;
+    text-align: left;
+  } */
+  .Leetcode {
+    width: 20%; height: 20%;
+    float: right;
+    border-radius: 50%;
+  }
+
+  .GeeksforGeeks{
+    height: 100px;
+    width: 200px; float: left;
+    padding-right: 10px;
+    border-radius: 50%;
+  }
+
+  /* .codechef {
+    width: 10%; height: 10%;
+    float: right;
+    border-radius: 20%;
+  } */
+
+  .top{
+    background-color:#cbecf7 ;
+    position: relative;
+    padding-top: 100px;
+    height: 300px;
+  }
